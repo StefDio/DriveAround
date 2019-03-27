@@ -1,0 +1,6 @@
+chiedere se nel navigation model il controllo con il rombo si può mettere per scegliere se si è professori o meno
+e/o se è possibile farlo senza rombetto
+
+chiedere per le viste differenti per il professore e lo studente in modo separato 
+chiedere come organizzare l'amministratore nell'applicazione 
+chiedere se la cosa del server, cioè quali sono le operazioni possibili attraverso il server
