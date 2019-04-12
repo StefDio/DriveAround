@@ -1,6 +1,12 @@
-chiedere se nel navigation model il controllo con il rombo si pu� mettere per scegliere se si � professori o meno
-e/o se � possibile farlo senza rombetto
+chiedere se nel navigation model il controllo con il rombo si può mettere per scegliere se si è professori o meno
+e/o se è possibile farlo senza rombetto
+-RISPOSTA: Esiste una freccia apposita per evitare di fare due navigation model ridondanti.
 
 chiedere per le viste differenti per il professore e lo studente in modo separato 
+-RISPOSTA: Domanda risposta al punto precedente.
+
 chiedere come organizzare l'amministratore nell'applicazione 
-chiedere se la cosa del server, cio� quali sono le operazioni possibili attraverso il server
+-RISPOSTA: É necessario, da pc desktop avrà un terminale per gestire il back-end dell'app, come il db o specifiche altre funzioni.
+
+chiedere se la cosa del server, cioè quali sono le operazioni possibili attraverso il serve
+-RISPOSTA: il server server (hahahah) in quanto per scaricare il manuale le domande dei quiz o altre funzionalità, è richiesto anche specificatamente dal prof.
